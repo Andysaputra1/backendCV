@@ -3,6 +3,7 @@ Flask-Cors
 tensorflow-cpu
 numpy
 scikit-image
+scikit-learn
 joblib
 opencv-python-headless
 gunicorn
