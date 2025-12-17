@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+tensorflow-cpu
+numpy
+scikit-image
+joblib
+opencv-python-headless
+gunicorn
+h5py
